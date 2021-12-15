@@ -17,3 +17,6 @@ spec/tmp
 .bundle
 Gemfile.lock
 gemfiles/*.lock
+
+# SonarQube Scanner Files
+.scannerwork/
